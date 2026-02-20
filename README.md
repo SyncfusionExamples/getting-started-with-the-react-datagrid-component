@@ -1,5 +1,5 @@
 # Getting Started with the React Data Grid Component
-A quick-start project that contains code to create and configure the Syncfusion React Data Grid component. This project also contains code to configure a few of the component's basic features such as defining columns, enabling paging, sorting, filtering, and grouping.
+A quick-start project that contains code to create and configure the Syncfusion React Data Grid component. This project also contains code to configure a few of the component's basic features such as defining columns, enabling paging, sorting, filtering, and grouping features.
  
 Refer to the following documentation to learn about the React Data Grid component: 
 https://ej2.syncfusion.com/react/documentation/grid/getting-started
