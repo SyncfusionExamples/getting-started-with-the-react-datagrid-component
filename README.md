@@ -1,14 +1,33 @@
 # Getting Started with the React Data Grid Component
-A quick-start project that contains code to create and configure the Syncfusion React Data Grid component. This project also contains code to configure a few of the component's basic features such as defining columns, enabling paging, sorting, filtering, and grouping.
- 
-Refer to the following documentation to learn about the React Data Grid component: 
-https://ej2.syncfusion.com/react/documentation/grid/getting-started
- 
-Check out this online example of the React Data Grid component:
-https://ej2.syncfusion.com/react/demos/#/tailwind3/grid/overview
- 
-## Project prerequisites
-Make sure that you have the compatible versions of [Visual Studio Code](https://code.visualstudio.com/download ) and [NodeJS](https://nodejs.org/en/download) or later version in your machine before starting to work on this project.
- 
-## How to run this application
-To run this application, you need to first clone the `getting-started-with-the-react-datagrid-component` repository and then open it in Visual Studio Code. Now, simply Build and run your project using the npm run dev command to view the output.
+
+A quick-start project demonstrating the creation and configuration of the Syncfusion EJ2 React Data Grid component with features such as column definitions, paging, sorting, filtering, and grouping.
+
+## Overview
+
+This project demonstrates setting up and using the Syncfusion React Data Grid component in a React application built with Vite, covering essential grid features ready to use out of the box.
+
+## Features
+
+- **Column Configuration**: Define and customize Data Grid columns
+- **Paging**: Navigate large datasets with built-in paging support
+- **Sorting**: Sort records by single or multiple columns
+- **Filtering**: Filter data using built-in filter options
+- **Grouping**: Group records by selected columns
+
+## Project Prerequisites
+
+- [Visual Studio Code](https://code.visualstudio.com/download)
+- [NodeJS](https://nodejs.org/en/download) - v18.0.0 or later
+- Syncfusion EJ2 license or trial
+
+## Installation
+
+1. Clone the repository: `git clone <repository-url>`
+2. Navigate to the project directory
+3. Run `npm install`
+4. Run `npm run dev`
+
+## Documentation and Resources
+
+- **Documentation**: https://ej2.syncfusion.com/react/documentation/grid/getting-started
+- **Live Demo**: https://ej2.syncfusion.com/react/demos/#/tailwind3/grid/overview
