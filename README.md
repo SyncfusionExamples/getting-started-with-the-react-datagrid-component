@@ -1,6 +1,6 @@
 # Getting Started with the React Data Grid Component
 
-A quick-start project demonstrating the creation and configuration of the Syncfusion EJ2 React Data Grid component with features such as column definitions, paging, sorting, filtering, and grouping.
+A quick-start project demonstrating the creation and configuration of the Syncfusion EJ2 [React Data Grid](https://www.syncfusion.com/react-components/react-data-grid?utm_source=github&utm_medium=listing&utm_campaign=angular-datagrid-github-samples) component with features such as column definitions, paging, sorting, filtering, and grouping.
 
 ## Overview
 
@@ -8,11 +8,11 @@ This project demonstrates setting up and using the Syncfusion React Data Grid co
 
 ## Features
 
-- **Column Configuration**: Define and customize Data Grid columns
-- **Paging**: Navigate large datasets with built-in paging support
-- **Sorting**: Sort records by single or multiple columns
-- **Filtering**: Filter data using built-in filter options
-- **Grouping**: Group records by selected columns
+- **Column Configuration**: Define and customize Data Grid [columns](https://ej2.syncfusion.com/react/documentation/grid/columns/columns?utm_source=github&utm_medium=listing&utm_campaign=angular-datagrid-github-samples)
+- **Paging**: Navigate large datasets with built-in [paging](https://ej2.syncfusion.com/react/documentation/grid/paging?utm_source=github&utm_medium=listing&utm_campaign=angular-datagrid-github-samples) support
+- **Sorting**: [Sort](https://ej2.syncfusion.com/react/documentation/grid/sorting?utm_source=github&utm_medium=listing&utm_campaign=angular-datagrid-github-samples) records by single or multiple columns
+- **Filtering**: Filter data using built-in [filter](https://ej2.syncfusion.com/react/documentation/grid/filtering/filtering?utm_source=github&utm_medium=listing&utm_campaign=angular-datagrid-github-samples) options
+- **Grouping**: [Group](https://ej2.syncfusion.com/react/documentation/grid/grouping/grouping?utm_source=github&utm_medium=listing&utm_campaign=angular-datagrid-github-samples) records by selected columns
 
 ## Project Prerequisites
 
