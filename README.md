@@ -29,5 +29,5 @@ This project demonstrates setting up and using the Syncfusion React Data Grid co
 
 ## Documentation and Resources
 
-- **Documentation**: https://ej2.syncfusion.com/react/documentation/grid/getting-started
-- **Live Demo**: https://ej2.syncfusion.com/react/demos/#/tailwind3/grid/overview
+- **Documentation**: https://ej2.syncfusion.com/react/documentation/grid/getting-started?utm_source=github&utm_medium=listing&utm_campaign=react-datagrid-github-samples
+- **Live Demo**: https://ej2.syncfusion.com/react/demos/#/tailwind3/grid/overview?utm_source=github&utm_medium=listing&utm_campaign=react-datagrid-github-samples
