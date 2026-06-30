@@ -16,8 +16,8 @@ This project demonstrates setting up and using the Syncfusion React Data Grid co
 
 ## Project Prerequisites
 
-- [Visual Studio Code](https://code.visualstudio.com/download)
-- [NodeJS](https://nodejs.org/en/download) - v18.0.0 or later
+- [Visual Studio Code](https://code.visualstudio.com/download?_exp_download=fb315fc982)
+- [NodeJS](https://nodejs.org/en/download?utm_source=github&utm_medium=listing&utm_campaign=react-datagrid-github-samples) - v18.0.0 or later
 - Syncfusion EJ2 license or trial
 
 ## Installation
